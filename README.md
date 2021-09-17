@@ -1,2 +1,2 @@
-# Algorithms
+# Tutorial notebooks
 Learning notebooks
