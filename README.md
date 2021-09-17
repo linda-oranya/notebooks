@@ -1,2 +1,2 @@
 # Algorithms
-Solving Algorithms with programming
+Learning notebooks
